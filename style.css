@@ -67,18 +67,6 @@ h2
     transition:0.8s;
     
 }
-
-h3
-{ 
-    width:250px;
-    color:#fff;
-    bottom:-50px;
-    opacity:0;
-    position:absolute;
-    transition:0.8s;
-}
-
-
 .icon
 {
     width:100%;
