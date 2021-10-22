@@ -29,8 +29,6 @@ body
     width:250px;
     margin:20px 40px;
     position:relative;
-    box-shadow: 13px 13px 25px #cbced1,
-    -13px -13px 25px #fff;
     border-radius:25px;
     transition: 0.7s;
     box-sizing: border-box;
